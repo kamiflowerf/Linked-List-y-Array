@@ -13,7 +13,7 @@ public static void main(String[] args) {
 ```
 ### Ejemplo de salida
 
-Estudiantes sin organizar: 
+#### Estudiantes sin organizar: 
 
 10150001 - Estudiante No.1 - 43.87
 10150002 - Estudiante No.2 - 1.65
@@ -35,7 +35,8 @@ Estudiantes sin organizar:
 10150018 - Estudiante No.18 - 63.9
 10150019 - Estudiante No.19 - 19.72
 10150020 - Estudiante No.20 - 14.81
-Estudiantes organizados: 
+
+#### Estudiantes organizados: 
 
 10150005 - Estudiante No.5 - 94.85
 10150007 - Estudiante No.7 - 92.02
