@@ -60,6 +60,7 @@ public static void main(String[] args) {
 10150014 - Estudiante No.14 - 0.66
 
 ### Complejidad
+
 #### Complejidad temporal:
 El algoritmo MergeSort tiene una complejidad de O(n log n) en todos los casos.
 La generación de estudiantes es O(n).
